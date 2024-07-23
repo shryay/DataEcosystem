@@ -1,2 +1,2 @@
 # DataScienceEcosystem
-This repository includes practical exercises and code examples.
+This repository includes practical project exercises and codes.
